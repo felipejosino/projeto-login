@@ -90,11 +90,11 @@ div.campo > span {
 div.campo > input {
     font-size: 1em;
     width: calc(100% - 45px);
-    height: 90%;
+    height: 93%;
     border: none;
     border-radius: 8px;
     padding: 5px;
-    transform: translateY(-11px);
+    transform: translateY(-12px);
 }
 
 form > input[type=submit] {
