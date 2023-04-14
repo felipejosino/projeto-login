@@ -69,7 +69,7 @@ div#formulario > p {
 form > div.campo {
     display: block;
     background-color: #5346A3;
-    border:  2px solid #5346A3;
+    border:  1px solid #5346A3;
     height: 40px;
     width: 100%;
     border-radius: 8px;
@@ -94,7 +94,7 @@ div.campo > input {
     border: none;
     border-radius: 8px;
     padding: 5px;
-    transform: translateY(-12px);
+    transform: translateY(-11px);
 }
 
 form > input[type=submit] {
